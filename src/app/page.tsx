@@ -17,7 +17,7 @@ export default function Home() {
       <main className="flex w-full flex-col items-center justify-between sm:items-start ">
         <section id="Home" className="relative h-200 w-full">
           <Image
-          src="/images/heroImage.png" 
+          src="/Images/heroImage.png" 
           alt="SmartWatch Moderno"
           fill
           priority
