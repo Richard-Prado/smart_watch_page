@@ -1,36 +1,60 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# ⌚ SmartWatch Landing Page
 
-## Getting Started
+Landing page fictícia desenvolvida para fins de **estudo e portfólio**, com foco em layout moderno, responsividade e boas práticas de front-end.
 
-First, run the development server:
+O objetivo do projeto é demonstrar domínio de **Next.js**, **React** e **Tailwind CSS**, simulando a apresentação de um produto tecnológico real.
+
+---
+
+## 📸 Preview
+
+![Preview da Landing Page](./public/images/preview.png)
+
+> Obs: Produto fictício. Projeto criado exclusivamente para portfólio.
+
+---
+
+## 🚀 Tecnologias Utilizadas
+
+- **Next.js**
+- **React**
+- **Tailwind CSS**
+- **Heroicons**
+- **Next/Image** para otimização de imagens
+
+---
+
+## 🎯 Objetivos do Projeto
+
+- Criar uma landing page visualmente atraente
+- Aplicar princípios de **UX/UI**
+- Trabalhar com **mobile-first e responsividade**
+- Praticar organização de layout e hierarquia visual
+- Utilizar componentes e recursos modernos do ecossistema React
+
+---
+
+## 🧩 Funcionalidades
+
+- Hero section com imagem otimizada
+- Call to Action (CTA)
+- Seção de benefícios em cards
+- Layout responsivo (desktop e mobile)
+- Design clean e consistente
+
+---
+
+## 🛠️ Como Rodar o Projeto Localmente
 
 ```bash
+# Clone o repositório
+git clone https://github.com/seu-usuario/seu-repositorio.git
+
+# Acesse a pasta
+cd seu-repositorio
+
+# Instale as dependências
+npm install
+
+# Inicie o servidor de desenvolvimento
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
